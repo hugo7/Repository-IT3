@@ -1,5 +1,4 @@
 #Übungsblatt 4, Aufgabe 4
-#das ist ein kurzer Test
 
 
 #Funktionsdefintion
