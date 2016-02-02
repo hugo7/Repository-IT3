@@ -1,5 +1,4 @@
 #Übungsblatt 4, Aufgabe 4
-#Dennis Hoffmann
 
 #Funktionsdefintion
 def summe(x, y)
